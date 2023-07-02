@@ -1,4 +1,4 @@
-<h1>👋Hello, I'm Jose (Jay) Martinez</h1>
+<h1>Hello 👋, I'm Jose (Jay) Martinez</h1>
 <h3>A passionate Cloud Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
