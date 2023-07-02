@@ -1,4 +1,3 @@
-### ❄ Jose (Jay) Martinez
 <h1>Hi 👋, I'm Jose (Jay) Martinez</h1>
 <h3>A passionate Cloud Engineer</h3>
 
